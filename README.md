@@ -1,6 +1,6 @@
 ## Hans-Ole Giske
 
-MSc Quantitative Finance at BI Norwegian Business School (GPA 4.3/5, graduating 2027). Before the MSc I spent two years as an Audit Associate at BDO, working on credit risk analysis, loan-loss provisions, and financial data automation using Python and APIs on structured ERP data.
+MSc Quantitative Finance at BI Norwegian Business School (graduating 2027). Before the MSc I spent two years as an Audit Associate at BDO.
 
 **Thesis (ongoing):** Volatility surface modeling with physics-informed neural networks (PINNs) — using the Black-Scholes PDE as a training constraint to build arbitrage-consistent implied volatility surfaces in PyTorch.
 
